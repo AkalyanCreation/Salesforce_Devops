@@ -11649,6 +11649,10 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+        <tab>New_Custom_Object__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
         <tab>Page__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
